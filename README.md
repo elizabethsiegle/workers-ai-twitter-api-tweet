@@ -2,7 +2,7 @@
 
 ![Example of Generated Tweet image](https://github.com/elizabethsiegle/workers-ai-twitter-api-tweet/blob/main/lizziepika-generated-tweet.png?raw=true)
 
-This application generates and posts tweets using Cloudflare Workers AI (specifically the Llama-3.1 model) and the Twitter (X) API. It combines developer-centric, tech-related prompts with AI-generated content to create engaging tweets.
+This application generates and posts tweets using Cloudflare Workers AI (specifically the Llama-3.1 model) and the Twitter (X) API to craft engaging and funny tweets according to pre-set prompts.
 
 ### Features
 - AI-Powered Tweet Generation: Utilizes Cloudflare Workers AI (Llama-3.1) to create tweets based on predefined prompts.
